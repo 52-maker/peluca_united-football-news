@@ -121,3 +121,16 @@ function publicarNoticia() {
         input.value = '';
     }
 }
+<!-- Esto va en index.html -->
+[🔽 Ya te lo dejé en la respuesta anterior. Pega todo el HTML aquí]
+/* Esto va en style.css */
+[🔽 Pega el CSS que te di aquí]// Esto va en script.js
+[🔽 Pega el JavaScript que te di aquí]
+git init
+git add .
+git commit -m "Primer commit - Subida de mi sitio de fútbol"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/mi-sitio-futbol.git
+git push -u origin main
+
+cv
